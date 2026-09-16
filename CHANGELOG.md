@@ -1,3 +1,9 @@
+## [8.1.0](https://github.com/alandtse/CommonLibSSE-NG/compare/v8.0.1...v8.1.0) (2026-09-16)
+
+### Features
+
+* **gfx:** add GFxCharEvent layout ([#362](https://github.com/alandtse/CommonLibSSE-NG/issues/362)) ([7ffe4f1](https://github.com/alandtse/CommonLibSSE-NG/commit/7ffe4f19ac3d2a294da95690bacfee99ec60e13d))
+
 ## [8.0.1](https://github.com/alandtse/CommonLibSSE-NG/compare/v8.0.0...v8.0.1) (2026-09-13)
 
 ### Bug Fixes
