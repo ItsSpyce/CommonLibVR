@@ -1,3 +1,15 @@
+## [8.2.0](https://github.com/alandtse/CommonLibSSE-NG/compare/v8.1.0...v8.2.0) (2026-09-18)
+
+### Features
+
+* **actor:** add CombatProjectileAimController ([#368](https://github.com/alandtse/CommonLibSSE-NG/issues/368)) ([8bed776](https://github.com/alandtse/CommonLibSSE-NG/commit/8bed7767fd1b764e674ead359c05fe7e03d710d2))
+
+### Bug Fixes
+
+* **papyrus:** invoke latent return type mapper ([#364](https://github.com/alandtse/CommonLibSSE-NG/issues/364)) ([9b19e69](https://github.com/alandtse/CommonLibSSE-NG/commit/9b19e695a4a7277f7e0059261be8655ce7781219))
+* **vr:** expose inventory-preview array layout ([#367](https://github.com/alandtse/CommonLibSSE-NG/issues/367)) ([4adaaae](https://github.com/alandtse/CommonLibSSE-NG/commit/4adaaaebdc2b026879b2903c68b15fbcfa5ca4ad))
+* **vr:** expose RaceSexMenu runtime data ([#363](https://github.com/alandtse/CommonLibSSE-NG/issues/363)) ([a6af562](https://github.com/alandtse/CommonLibSSE-NG/commit/a6af562bba4f0b8255ab2237013e85ff7f4ac3f5))
+
 ## [8.1.0](https://github.com/alandtse/CommonLibSSE-NG/compare/v8.0.1...v8.1.0) (2026-09-16)
 
 ### Features
