@@ -1,3 +1,14 @@
+## [8.3.0](https://github.com/alandtse/CommonLibSSE-NG/compare/v8.2.0...v8.3.0) (2026-09-19)
+
+### Features
+
+* `RE::BSScript::Object::~Object` impl ([#366](https://github.com/alandtse/CommonLibSSE-NG/issues/366)) ([53f4a56](https://github.com/alandtse/CommonLibSSE-NG/commit/53f4a561a953fef2cd792d271a631e6ac66a2d43))
+* **CombatProjectileAimController:** name fields ([#370](https://github.com/alandtse/CommonLibSSE-NG/issues/370)) ([f643c41](https://github.com/alandtse/CommonLibSSE-NG/commit/f643c41b85272e672773bbb4c40c5964d6e8ac9b))
+
+### Bug Fixes
+
+* **niskindata:** keep GetBoneData private ([#369](https://github.com/alandtse/CommonLibSSE-NG/issues/369)) ([e1702ad](https://github.com/alandtse/CommonLibSSE-NG/commit/e1702adb508eca8babcb87b183157da7a6b8b0c7))
+
 ## [8.2.0](https://github.com/alandtse/CommonLibSSE-NG/compare/v8.1.0...v8.2.0) (2026-09-18)
 
 ### Features
